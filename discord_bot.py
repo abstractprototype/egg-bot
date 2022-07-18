@@ -5,6 +5,7 @@ TOKEN = ''
 client = discord.Client()
 
 # my bot
+# type flake8 linter to check for syntax errors or other issues
 
 
 @client.event
