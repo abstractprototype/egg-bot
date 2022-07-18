@@ -5,6 +5,8 @@ TOKEN = ''
 client = discord.Client()
 
 # my bot
+
+
 @client.event
 async def on_ready():
     print('We have successfully loggged in as {0.user}'.format(client))
